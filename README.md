@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Madhu.M
-- 👀 I’m interested in coding, machine learnong web development
+- 👀 I’m interested in coding, machine learnong and web development
 - 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
